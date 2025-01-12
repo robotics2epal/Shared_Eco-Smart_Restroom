@@ -28,3 +28,4 @@
   <li> Tact switch 6x3mm 4.3mm 2pin Angled x 10 </li>
   <li> Solar Panel 0.8W 70x90mm x 1 </li>
 </ul>
+Συνολικό κόστων υλικών 185€
