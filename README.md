@@ -38,7 +38,7 @@
 </ul>
 Συνολικό κόστων υλικών 185€
 
-[Βίντεο από τη λειτουργία του project]
+<br><br>
 
 [![Παρουσίαση έργου](ttps://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://view.genially.com/68037b72e07d4f22c79eec51/presentation-shared-eco-smart-restroom)
 <br><br>
