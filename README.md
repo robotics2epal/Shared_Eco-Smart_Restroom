@@ -41,9 +41,6 @@
 [Βίντεο από τη λειτουργία του project]
 
 [![Παρουσίαση έργου](ttps://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://view.genially.com/68037b72e07d4f22c79eec51/presentation-shared-eco-smart-restroom)
-
 <br><br>
-[![AI automated parking](ttps://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://youtu.be/zyMolJCQ07g)
-<br><br>
-[![AI automated parking](ttps://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://youtu.be/zyMolJCQ07g)
-
+[![Shared_Eco-Smart_Restroom](ttps://i9.ytimg.com/vi_webp/pKPuekAAOuM/mq3.webp?sqp=CNis2aIG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gKSgbMA8=&rs=AOn4CLCWAAV4AqgUc9v-00f6j5c4fqbHig)](https://youtu.be/_xpLs7C4RzU)
+ 
